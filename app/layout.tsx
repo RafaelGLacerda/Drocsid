@@ -4,8 +4,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata: Metadata = {
   title: 'Drocsid',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Site baseado no Discord',
+  generator: 'Rafael Lacerda',
 }
 
 export default function RootLayout({
