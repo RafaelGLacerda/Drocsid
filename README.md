@@ -28,12 +28,4 @@ Drocsid é um clone funcional inspirado no Discord, voltado para comunicação p
 - ⚠️ Chats de voz ainda não implementam áudio real (apenas criação de canal)
 - ⚠️ Não há persistência em banco de dados (apenas memória ou simulação)
 
-## 🚀 Rodando localmente
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/RafaelGLacerda/Drocsid.git
-cd Drocsid
-npm install --force && npm run build
-npm start
